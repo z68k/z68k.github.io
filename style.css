@@ -1,0 +1,29 @@
+html {
+  font-family: serif;
+}
+
+p, li {
+    letter-spacing: 1px;
+    font-size: 14px
+}
+
+body {
+  padding: 0px 1250px 0px 0px;
+}
+
+img {
+  width: 100%;	
+  display: block;
+  margin: 0% auto; 
+}
+
+a {
+  color: crimson;
+}
+
+hr {
+  border: none;
+}
+.sub {
+  text-align: center;
+}
