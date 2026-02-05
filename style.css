@@ -2,6 +2,11 @@ html {
   font-family: serif;
 }
 
+h1 {
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
 p, li {
     letter-spacing: 1px;
     font-size: 14px
@@ -24,6 +29,7 @@ a {
 hr {
   border: none;
 }
+
 .sub {
   text-align: center;
 }
