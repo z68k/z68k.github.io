@@ -37,6 +37,10 @@ a {
   color: purple;
 }
 
+a:hover {
+  background-color: cyan;
+}
+
 .item {
     padding: 0em 1em 0em;
     margin: 2.5em auto;
